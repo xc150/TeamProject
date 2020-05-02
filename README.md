@@ -27,4 +27,4 @@ We let the model make the prediction again.
 
 Our model makes a different prediction! Looks like our model cherish the government employment and a higher education level.
 
-A video demo of this project can be found here TBA.
+A video demo of this project can be found [here](https://youtu.be/gegBTbZkyeA).
