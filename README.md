@@ -3,7 +3,7 @@
 
 This is the Final team project for Data Analysis at Scale in the Cloud (ECE 590).
 
-In this project, we build a machine learning model to predict whether an individual gets an anual income of more than $50k, given some information about this person. We train the model based on the [adult dataset](https://archive.ics.uci.edu/ml/datasets/adult) and deploy the service on google [cloud](https://cloud.google.com/). Note that we will not store any private information and this project is just for fun.
+In this project, we build a machine learning model to predict whether an individual gets an anual income of more than $50k, given some information about this person. We train the model based on the [adult dataset](https://archive.ics.uci.edu/ml/datasets/adult) and deploy the service on [google cloud](https://cloud.google.com/). Note that we will not store any private information and this project is just for fun.
 
 Our model can be accessed by anyone with this [link](https://team-project-276014.ue.r.appspot.com/). It will look like this:
 ![image1](images/1.png)
