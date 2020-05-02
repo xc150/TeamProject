@@ -12,6 +12,7 @@ Now we can input someone's information to the web service. For example, we have 
 ![image2](images/2.png)
 
 After we finish the information, we can click the submit button. The prediction result will be returned shortly:
+
 ![image2r](images/2r.png)
 
 It seeems likely for this person to have an income of less than $50k anually, based on our model.
@@ -20,6 +21,7 @@ Now, if we change the work class and the education information of this man as fo
 ![image3](images/3.png)
 
 We let the model make the prediction again.
+
 ![image3r](images/3r.png)
 
 Our model makes a different prediction! Looks like our model cherish the government employment and a higher education level.
